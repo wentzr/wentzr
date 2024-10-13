@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @wentzr
-- 👀 I’m interested in art, music, synthesizers, electronics etc
-- 🌱 I’m currently learning game and audio/midi plug-in development
-- 💞️ I’m looking to collaborate on audio / MIDI plug-in development
-- 📫 How to reach me ... wentzr@gmail.com
+monstrum media software editors are now free as in beer. 
+ENJOY! 
+https://github.com/wentzr/monstrummedia
 
 <!---
 wentzr/wentzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
